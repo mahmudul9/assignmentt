@@ -1,0 +1,544 @@
+@media(max-width:2500px){
+    .header-logo h2 {
+        font-size: 40px;
+    }
+    .header-menu ul li a {
+        padding: 10px 42px;
+        font-size: 25px;
+    }
+    .banner-part h1 {
+        font-size: 70px;
+    }
+    .banner-part h3 {
+        font-size: 44px;
+    }
+    .banner-part a {
+        padding: 15px 40px;
+        font-size: 30px;
+    }
+    .banner-part {
+        padding: 300px 0;
+    }
+    .default h2 {
+        font-size: 70px;
+    }
+    .default p {
+        font-size: 35px;
+    }
+    .service-section {
+        margin-top: 150px;
+    }
+    .service-section .fixwidth {
+        width: 90%;
+        margin: auto;
+    }
+    .service-icon i {
+        font-size: 60px;
+    }
+    .service-part h2 {
+        font-size: 40px;
+    }
+    .service-part p {
+        font-size: 25px;
+    }
+    .float-full-part .fixwidth{
+      width: 90%;
+        margin: auto;
+    }
+    .f-image-part {
+        width: 38%;
+    }
+    .f-text-part {
+        width: 58%;
+        margin-left: 4%;
+        box-sizing: border-box;
+    }
+    .f-image-part img {
+        width: 100%;
+        height: 500px;
+    }
+    .text-part h2 {
+        font-size: 40px;
+    }
+    .text-part p {
+        font-size: 25px;
+    }
+    .contract-section {
+        width: 70%;
+    }
+    .contract-part h3 {
+        font-size: 30px;
+    }
+    .contract-part i {
+        font-size: 35px;
+    }
+    .footer ul li a {
+        padding: 0px 80px;
+        font-size: 35px;
+    }
+    .footer-bottom {
+        padding: 20px 0;
+    }
+    .footer-bottom p {
+        font-size: 25px;
+    }
+    
+}
+@media(max-width:1920px){
+    .banner-part h1 {
+        font-size: 65px;
+    }
+    .footer ul li a {
+        padding: 0px 55px;
+        font-size: 30px;
+    }
+    .banner-part h1 {
+        font-size: 50px;
+    }
+    .banner-part h3 {
+        font-size: 40px;
+    }
+    .banner-part a {
+        padding: 13px 36px;
+        font-size: 27px;
+    }
+    .service-icon i {
+        font-size: 50px;
+    }
+    .service-part h2 {
+        font-size: 35px;
+    }
+    .service-part p {
+        font-size: 22px;
+    }
+    .default h2 {
+        font-size: 55px;
+    }
+    .default p {
+        font-size: 25px;
+    }
+    .text-part h2 {
+        font-size: 35px;
+    }
+    .text-part p {
+        font-size: 22px;
+    }
+    .footer-bottom p {
+        font-size: 23px;
+    }
+}
+@media(max-width:1400px){
+    .header-logo h2 {
+        font-size: 30px;
+    }
+    .header-menu ul li a {
+        padding: 10px 30px;
+        font-size: 20px;
+    }
+    .banner-part {
+        padding: 250px 0;
+    }
+    .banner-part h1 {
+        font-size: 50px;
+    }
+    .banner-part h3 {
+        font-size: 40px;
+    }
+    .banner-part a {
+        padding: 13px 34px;
+        font-size: 24px;
+    }
+    .default h2 {
+        font-size: 50px;
+    }
+    .default p {
+        font-size: 25px;
+    }
+    .service-icon i {
+        font-size: 40px;
+    }
+    .service-part h2 {
+        font-size: 25px;
+    }
+    .service-part p {
+        font-size: 20px;
+    }
+    .default h2 {
+        font-size: 35px;
+    }
+    .default p {
+        font-size: 20px;
+    }
+    .f-image-part img {
+        height: 450px;
+    }
+    .text-part h2 {
+        font-size: 25px;
+    }
+    .text-part p {
+        font-size: 19px;
+    }
+    .default h2 {
+        font-size: 34px;
+    }
+    .default p {
+        font-size: 19px;
+    }
+    .contract-part i {
+        font-size: 30px;
+    }
+    .contract-part h3 {
+        font-size: 23px;
+    }
+    .footer ul li a {
+        padding: 0px 30px;
+        font-size: 24px;
+    }
+    .footer-bottom p {
+        font-size: 20px;
+    }
+}
+@media(max-width:1100px){
+    .header-menu ul li a {
+        padding: 10px 20px;
+        font-size: 18px;
+    }
+    .banner-part {
+        padding: 220px 0;
+    }
+    .banner-part h1 {
+        font-size: 35px;
+    }
+    .banner-part h3 {
+        font-size: 32px;
+    }
+    .banner-part a {
+        padding: 12px 32px;
+        font-size: 22px;
+    }
+    .service-icon i {
+        font-size: 35px;
+    }
+    .service-part h2 {
+        font-size: 23px;
+    }
+    .service-part p {
+        font-size: 18px;
+    }
+    .f-image-part img {
+        height: 400px;
+    }
+    .text-part h2 {
+        font-size: 22px;
+    }
+    .text-part p {
+        font-size: 16px;
+    }
+    .contract-part h3 {
+        font-size: 18px;
+        font-weight: 500;
+        color: #888;
+    }
+    .footer ul li a {
+        padding: 0px 25px;
+        font-size: 20px;
+    }
+    .footer-bottom p {
+        font-size: 18px;
+    }
+}
+@media(max-width:870px){
+    .header-logo h2 {
+        font-size: 22px;
+        margin-left: 2%;
+        box-sizing: border-box;
+    }
+    .header-menu ul li a {
+        padding: 10px 16px;
+        font-size: 16px;
+    }
+    .banner-part {
+        padding: 200px 0;
+    }
+    .banner-part h1 {
+        font-size: 30px;
+    }
+    .banner-part h3 {
+        font-size: 26px;
+    }
+    .banner-part a {
+        font-size: 18px;
+    }
+    .default h2 {
+        font-size: 30px;
+    }
+    .default p {
+        font-size: 17px;
+    }
+    .service-section {
+        margin-top: 120px;
+    }
+    .service-part {
+        width: 48%;
+        margin-right: 0;
+        margin-bottom: 80px;
+    }
+    .service-icon i {
+        margin-bottom: 19px;
+    }
+    .service-section {
+        margin-bottom: 45px;
+    }
+    .f-image-part img {
+        height: 360px;
+    }
+    .text-part h2 {
+        font-size: 20px;
+    }
+    .text-part p {
+        font-size: 15px;
+    }
+    .footer ul li a {
+        padding: 0px 20px;
+    }
+}
+@media(max-width:760px){
+    .header-logo h2 {
+        margin-top: 12px;
+    }
+    .header-part {
+        background-color: #22c3a3;
+        padding: 13px 0;
+    }
+    .header-menu ul li {
+        display: block;
+    }
+    .header-menu ul {
+        padding-right: 0;
+        margin-right: 10%;
+
+    }
+    .header-menu ul li {
+        display: block;
+        border-bottom: 1px solid #ddd;
+    }
+    .header-menu ul li:hover a {
+	background-color:#0bb89c;
+}
+
+
+    label {
+        display: block;
+        cursor: pointer;
+        margin-right: 10%;
+        font-size: 30px;
+        color: #fff;
+    }
+   .header-menu{
+       position: relative;
+   }
+   .menu {
+	position: absolute;
+	right: -8px;
+	top: 125%;
+	width: 200px;
+	background-color: #20c698;
+	display: none;
+}
+   .menu li{
+       display: block;
+   }
+   .menu li a{
+       display: block;
+       margin: 0;
+   }
+   #toggle:checked + .menu{
+       display: block;
+   }
+      
+   .header-menu ul li a {
+	padding: 2px 22px;
+	font-size: 18px;
+}
+
+
+.banner-part {
+	padding: 160px 0;
+}
+.banner-part h1 {
+	font-size: 26px;
+}
+.banner-part h3 {
+	font-size: 22px;
+}
+.banner-part a {
+	font-size: 15px;
+}
+.service-icon i {
+	font-size: 30px;
+}
+.service-part h2 {
+	font-size: 20px;
+}
+.service-part p {
+	font-size: 15px;
+}
+.default h2 {
+	font-size: 28px;
+}
+.default p {
+	font-size: 15px;
+    width: 90%;
+	margin: auto;
+}
+
+.f-image-part img {
+	height: 300px;
+}
+.text-part h2 {
+	font-size: 17px;
+}
+.text-part p {
+	font-size: 14px;
+}
+.contract-part h3 {
+	font-size: 16px;;
+}
+.contract-part i {
+	font-size: 25px;
+}
+.footer ul li a {
+	padding: 0px 14px;
+	font-size: 17px;
+}
+.footer-bottom p {
+	font-size: 16px;
+}
+}
+
+
+@media(max-width:630px){
+    .header-menu {
+        width: 65%;
+    }
+    .header-logo {
+        width: 35%;
+    }
+    .header-logo h2 {
+        font-size: 19px;
+    }
+    .banner-part {
+        padding: 120px 0;
+    }
+    .banner-part h1 {
+        font-size: 22px;
+    }
+    .banner-part h3 {
+        font-size: 20px;
+    }
+    .f-image-part {
+        width: 65%;
+        margin-left: 5%;
+    }
+    .f-text-part {
+        width: 95%;
+    }
+    .float-full-part {
+        margin-bottom: 30px;
+    }
+    .contract-section {
+        width: 90%;
+    }
+    .header-menu ul {
+        padding-right: 0;
+        margin-right: 2%;
+    }
+}
+
+@media(max-width:430px){
+    label {
+        font-size: 25px;
+    }
+    .header-logo h2 {
+        font-size: 17px;
+    }
+    .banner-part h1 {
+        font-size: 18px;
+    }
+    .banner-part h3 {
+        font-size: 17px;
+    }
+    .default h2 {
+        font-size: 25px;
+    }
+    .banner-part {
+        padding: 90px 0;
+    }
+    .service-part {
+        width: 70%;
+        margin-left: 15%;
+    }
+    .service-section {
+        margin-bottom: 15px;
+    }
+    .f-image-part {
+        width: 80%;
+    }
+    .contract-part {
+        width: 92%;
+        margin-top: 46px;
+        margin-bottom: 10px;
+    }
+    .footer ul li a {
+        padding: 0px 10px;
+        font-size: 15px;
+    }
+    .footer-bottom p {
+        font-size: 13px;
+    }
+}
+
+@media(max-width:340px){
+    .header-logo {
+        width: 45%;
+    }
+    .header-menu {
+        width: 55%;
+    }
+    .menu {
+        width: 180px;
+    }
+    .header-menu ul li a {
+        padding: 0px 39px;
+        font-size: 14px;
+    }
+    .banner-part {
+        padding: 75px 0;
+    }
+    .banner-part h1 {
+        font-size: 15px;
+    }
+    .banner-part h3 {
+        font-size: 15px;
+    }
+    .banner-part a {
+        padding: 11px 27px;
+    }
+    .default h2 {
+        font-size: 20px;
+    }
+    .footer-bottom p {
+        font-size: 12px;
+    }
+}
+@media(max-width:260px){
+    .header-menu {
+        width: 50%;
+    }
+    .header-logo {
+        width: 50%;
+    }
+    .header-logo h2 {
+        font-size: 16px;
+    }
+}

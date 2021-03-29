@@ -1,0 +1,242 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+.fixwidth{
+    width: 1380px;
+    margin: auto;
+}
+.clearfix::after{
+    content: "";
+    clear: both;
+    display: block;
+}
+.left{
+    float: left;
+}
+.right{
+    float: right;
+}
+
+/* header-part  */
+.header-part {
+    background-color: #22c3a3;
+    padding: 25px 0;
+}
+.header-logo {
+	width: 25%;
+}
+.header-logo h2 {
+    color: #fff;
+    text-align: center;
+    font-size: 28px;
+    font-weight: 500;
+    cursor: pointer;
+    transition: 0.6s ease-in-out;
+}
+
+.header-menu{
+    width: 75%;
+}
+.header-menu ul{
+    list-style: none;
+    text-align: right;
+    padding-right: 50px;
+}
+.header-menu ul li{
+    display: inline-block;
+}
+.header-menu ul li a {
+    text-decoration: none;
+    padding: 10px 25px;
+    color: #fff;
+    font-size: 20px;
+    transition: 0.5s ease-in-out;
+}
+.header-menu ul li:hover a{
+    background-color: rgb(19, 235, 192);
+    
+}
+/* banner-part */
+.banner-part {
+    text-align: center;
+    background-image: url(https://i.ibb.co/wBKg7rb/header-bg01.jpg); 
+    padding: 250px 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.banner-part h1 {
+    font-size: 50px;
+    color: #fff;
+    margin-bottom: 30px;
+    font-weight: 600;
+}
+.banner-part h3 {
+    color: #ddd;
+    font-size: 25px;
+    margin-bottom: 40px;
+}
+.banner-part a {
+    border: 2px solid #ddd;
+    display: inline-block;
+    padding: 10px 30px;
+    font-size: 25px;
+    color: #fff;
+    text-decoration: none;
+    transition: 0.5s ease-in-out;
+}
+.banner-part a:hover{
+    transform: scale(1.05);
+    
+}
+/* service */
+.service {
+    text-align: center;
+    margin: 70px 0;
+}
+.default h2 {
+    font-size: 35px;
+    color: #555;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.default p {
+    color: #676767;
+    font-size: 18px;
+    text-align: center;
+}
+
+/* service section */
+.service-section{
+    margin-bottom: 100px;
+    
+}
+.service-part {
+    text-align: center;
+    width: 23.5%;
+    margin-right: 2%;
+}
+.service-part:nth-child(4){
+    margin-right: 0;
+}
+.service-icon i {
+    font-size: 40px;
+    color: #0dbf9b;
+    margin-bottom: 30px;
+}
+.service-part h2 {
+    color: #444;
+    margin-bottom: 20px;
+}
+.service-part p {
+    font-size: 18px;
+    color: #676767;
+}
+
+/* about-section */
+.about-section {
+    border-top: 3px solid #0dbf9b;
+    text-align: center;
+    padding-top: 65px;
+    margin-bottom: 50px;
+}
+
+/* float-full-part */
+.float-full-part{
+    margin-bottom: 100px;
+}
+.f-image-part{
+    width: 40%;
+    
+}
+.f-image-part img{
+    width: 500px;
+    height: 400px;
+}
+
+.f-text-part{
+    width: 60%;
+    margin-top: 12px;
+}
+.text-part{
+    margin-bottom: 20px;
+}
+.text-part h2 {
+    color: #676767;
+    font-weight: 400;
+    margin-bottom: 10px;
+}
+.text-part p {
+    color: #676767;
+    font-size: 18px;
+}
+/* contract-section */
+.contact-full {
+	background-color: #f6f6f6;
+	padding-top: 80px;
+}
+.contract-section{
+    text-align: center;
+    width: 1000px;
+    margin: auto;
+
+}
+.contract-part{
+    width: 33%;
+    margin-top: 50px;
+    margin-bottom: 100px;  
+}
+
+.contract-part i {
+    color: #0dbf9b;
+    font-size: 20px;
+    margin-bottom: 12px;
+}
+.contract-part h3{
+    color: #676767;
+    font-weight: 600;
+}
+
+/* footer-contract */
+.footer{
+    background-color: #22c3a3;
+    padding: 20px 0;
+}
+.footer ul{
+    list-style: none;
+    text-align: center;
+}
+.footer ul li{
+    display: inline-block;
+}
+.footer ul li a {
+    display: inline-block;
+    padding: 0px 15px;
+    color: #fff;
+    font-size: 21px;
+}
+.footer-bottom{
+    background-color: #222;
+    text-align: center;
+    padding: 10px 0;
+}
+.footer-bottom p{
+    color: rgb(192, 180, 180);
+}
+/* responsive  */
+.nav{
+    text-align: right;
+    height: 50px;
+    line-height: 50px;
+}
+label{
+    display: none;
+}
+#toggle{
+    display: none;
+}
